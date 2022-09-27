@@ -25,7 +25,7 @@ console.log(typeof miNumeroFav);
 console.log(`Mi nombre es ${miNombre} y mi número favorito es ${miNumeroFav}.`);
 
 console.log(
-  "Seré un crack en JavaScript al terminar el bootcamp.".toLocaleUpperCase()
+  "Seré un crack en JavaScript al terminar el bootcamp.".toUpperCase()
 );
 
 const variable = "Hola soy un crack";
